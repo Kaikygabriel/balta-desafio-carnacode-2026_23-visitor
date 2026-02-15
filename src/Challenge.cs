@@ -1,3 +1,4 @@
+/*
 // DESAFIO: Sistema de Relatórios para Estrutura de Documentos
 // PROBLEMA: Um sistema de documentos tem diferentes tipos de elementos (Parágrafo, Imagem, Tabela)
 // e precisa realizar múltiplas operações (exportar HTML, PDF, contar palavras, validar). O código
@@ -362,3 +363,4 @@ namespace DesignPatternChallenge
         }
     }
 }
+*/
